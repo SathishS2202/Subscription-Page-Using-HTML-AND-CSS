@@ -1,0 +1,64 @@
+
+.container{
+    margin: 100px 300px 0 300px;
+    border: 2px solid black;
+    height: 600px;
+    width: 0;
+    padding: 50px;
+    border: 1px solid black;
+}
+input{
+    display: block;
+    margin-top: 50px;
+    padding: 10px;
+    width: 1070px;
+    margin-left: 10px;
+}
+.main{
+    margin-top: 10px;
+    padding: 30px;
+     width: 1300px;
+     margin-left: -10px;
+}
+.section{
+
+     background-color: grey;
+     padding: 30px;
+     width: 1115px;
+     margin-top: -10px;
+     margin-left: -10px;
+     border: 1px solid white;
+}
+.container-2{
+    border: 1px solid rgb(255, 246, 246);
+}
+.email{
+    margin-top: 10px;
+}
+.form-check-input{
+    border: 3px solid black;
+}
+button{
+    margin-top: 50px;
+    padding: 10px;
+    width: 1050px;
+    background-color: green;
+}
+.button-section1{
+    margin-top: 10px;
+    margin-left: -10px;
+    
+}
+.form-check-input{
+    border: 2px solid black;
+}
+.form-check{
+    margin-top: -10px;
+     margin-left: 20px;
+     color: black;
+    
+}
+.container2{
+    border: 1px solid rgb(179, 170, 170);
+    padding: 8px;
+}
